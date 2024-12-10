@@ -21,7 +21,7 @@ The plots were made by the augmented datasets in order to visualize the data and
 1. Compute the time that the person runs
 2. compute the velocity of x y z
 3. compute the distance traveled
-4. if the thresold time is more than the running time it ouputs 0, else it outputs 1. 0 and 1 are used to remind the person to rest (1)
+4. if the threshold time is more than the running time it ouputs 0, else it outputs 1. 0 and 1 are used to remind the person to rest (1)
 5. Compute the mean and std in order to has some insights
 6. Normalization of the data
 2 models were used
